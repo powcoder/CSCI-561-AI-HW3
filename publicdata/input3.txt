@@ -1,0 +1,18 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+3
+Alert(Alice,VitE)
+Alert(Bob,VitE)
+Alert(John,VitE)
+9
+Migraine(x) & HighBP(x) => Take(x,Timolol)
+Take(x,Warfarin) & Take(x,Timolol) => Alert(x,VitE)
+Migraine(Alice)
+Migraine(Bob)
+HighBP(Bob)
+OldAge(John)
+HighBP(John)
+Take(John,Timolol)
+Take(Bob,Warfarin)
